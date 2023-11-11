@@ -9,5 +9,3 @@ Pytorch, Tonic, numpy, sklearn and snntorch
 2. **lsm_models.py** - contains the LSM model definition.
 3. **main.py** - contains an example implementation with the N-MNIST dataset. Network execution must be run with **torch.no_grad()** for LSM operation
 4. **main.ipynb** - same as main.py but for running in Google Colab. (Make sure to upload this repository folder to in Google Drive and modify the path in the 3rd cell accordingly to run)
-
-geygiri
